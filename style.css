@@ -1,12 +1,12 @@
-/*#stars{
+img{
 	display:none;
-}*/
+}
 
 .wrapper{
 	margin:auto;
 	text-align:center;
 }
 
-canvas{
+/*canvas{
 	border: 2px black dotted;
-}
+}*/
